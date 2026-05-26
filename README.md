@@ -1,5 +1,3 @@
-Aqui está o modelo de README.md adaptado especificamente para o seu projeto de academia, mantendo o estilo profissional e direto que você pediu:
-
 🌐 Landing Page - Academia (Modelo de Alta Conversão)
 Este é um modelo de Landing Page desenvolvido pela Elyra Studio, focado especificamente no nicho fitness, projetado para transformar visitantes em alunos através de uma estrutura de conversão otimizada.
 
